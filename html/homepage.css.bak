@@ -1,0 +1,38 @@
+body {  
+    background-image: url("background.jpg");  
+	background-repeat: no-repeat;
+	background-attachment: fixed;  
+  background-size:100% 100%;
+}  
+h2 {  
+    color: blue;  
+    margin-left: 20px;  
+}
+div.btn {
+	
+	text-align: right;
+	
+	
+}   
+
+.mybtn{
+	background-color:blue;
+	
+}
+.bt{
+	background-color:blue;
+}
+div.a{
+	text-align: center;
+	padding-top:500px;
+}
+
+.b{
+	background-color:yellow;
+	
+	
+}
+.c{
+	background-color:yellow;
+	
+}
